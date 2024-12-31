@@ -7,8 +7,6 @@ Unfortunately, eFuse chips are available only in surface-mount packages. This ma
 
 Designed with hobbyists in mind and featuring a through-hole footprint for a breadboard-friendly 2.54mm-pitch three-pin header, this module takes care of peripheral component selection and surface-mount assembly for you, giving you the versatility of eFuses while freeing up your time and attention to focus on the project you care about. All you have to do is select and solder a resistor to set the current limit, an optional timing capacitor, and a three-pin 0.1" header and your eFuse Module is ready to carry out its role in your breadboarded project. If the eFuse Module performs to your satisfaction in the solderless prototype, then you have a proven reference design that you can re-use as you move on to soldered and surface-mount prototypes.
 
-This module is packaged in non-retail packaging; specifically, in the resealable ESD protection bag in which it arrived from the manufacturer. The ESD-safe bag may differ from the photograph and may bear one or more stickers. Three-pin header, current-selection resistors, and timing capacitors are **not included**. Through-hole soldering required.
-
 #### Technical Details
 * eFuse IC: Texas Instruments TPS16413
     https://www.ti.com/product/TPS1641
