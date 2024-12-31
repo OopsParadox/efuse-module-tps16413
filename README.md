@@ -11,6 +11,7 @@ This module is packaged in non-retail packaging; specifically, in the resealable
 
 #### Technical Details
 * eFuse IC: Texas Instruments TPS16413
+    https://www.ti.com/product/TPS1641
 * Operating voltage: 2.7 V - 24 V
 * Range of adjustable current limit: 30 mA - 1800 mA
 * Time to trip: 19.5 ms _(can be set higher with an optional timing capacitor)_
