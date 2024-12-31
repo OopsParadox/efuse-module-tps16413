@@ -20,5 +20,8 @@ This module is packaged in non-retail packaging; specifically, in the resealable
 * Maximum input circuit inductance: 100 µH
 * Power-on slew rate: 1.00 V/ms ±40%
 
-User Guide: https://drive.google.com/file/d/1p9BwuYgVd0yIhPiDqku7PbQwxBbZMA0I/view?usp=sharing
-Schematic: https://drive.google.com/file/d/1rWIsOPIGEPpW0aGEeQ8bVy2xrn4HcABK/view?usp=sharing
+#### User Guide
+https://drive.google.com/file/d/1p9BwuYgVd0yIhPiDqku7PbQwxBbZMA0I/view?usp=sharing
+
+#### Schematic
+https://drive.google.com/file/d/1rWIsOPIGEPpW0aGEeQ8bVy2xrn4HcABK/view?usp=sharing
