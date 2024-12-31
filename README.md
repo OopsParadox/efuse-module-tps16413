@@ -22,6 +22,7 @@ This module is packaged in non-retail packaging; specifically, in the resealable
 
 #### User Guide
 https://github.com/OopsParadox/efuse-module-tps16413/blob/d148078e49a9c3a2b64ff04c13642ad9052ce294/docs/efuse-module-guide-rev07.pdf
+xfun::embed_file("https://github.com/OopsParadox/efuse-module-tps16413/blob/d148078e49a9c3a2b64ff04c13642ad9052ce294/docs/efuse-module-guide-rev07.pdf")
 
 #### Schematic
 https://github.com/OopsParadox/efuse-module-tps16413/blob/d148078e49a9c3a2b64ff04c13642ad9052ce294/docs/efuse-module-schematic-rev07.pdf
