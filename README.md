@@ -21,6 +21,7 @@ This module is packaged in non-retail packaging; specifically, in the resealable
 * Power-on slew rate: 1.00 V/ms ±40%
 
 #### User Guide
+GitHub will not be able to preview the User Guide document, but you can still download it via the following link:
 https://github.com/OopsParadox/efuse-module-tps16413/blob/d148078e49a9c3a2b64ff04c13642ad9052ce294/docs/efuse-module-guide-rev07.pdf
 
 #### Schematic
