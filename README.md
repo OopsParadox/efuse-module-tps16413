@@ -1,4 +1,4 @@
-# efuse-module-tps16413
+# eFuse Module TPS16413
 User-friendly, breadboard-compatible circuit protection
 
 Electronic Fuses (eFuses) are the future of circuit protection. They are faster, more accurate, and feature lower series resistance than conventional and PPTC fuses. Like PPTC fuses, eFuses are reusable. Unlike PPTC fuses, eFuses do not deteriorate over time. Some eFuses have additional features, such as power-on slew rate control to smooth out power-on current and voltage spikes. The eFuse Module TPS16413 also features a high-efficiency on-board LED to visually inform you of a fault condition much sooner than you can check voltages with a multimeter or feel an overheated PPTC fuse with your fingertips.
