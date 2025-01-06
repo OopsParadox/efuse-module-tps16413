@@ -17,6 +17,7 @@ This is more than just a component on a breakout board. Designed with hobbyists 
 * eFuse internal resistance: 0.152 Ω
 * Maximum input circuit inductance: 100 µH
 * Power-on slew rate: 1.00 V/ms ±40%
+* DC (Direct Current) only
 
 #### User Guide
 GitHub will not be able to preview the User Guide document, but you can still download it via the following link:
